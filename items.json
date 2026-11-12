@@ -193,25 +193,29 @@
     "favorite": false
   },
   {
-    "name": "Roller Rabbit Sweater Weather Pajamas",
+    "name": "Roller Rabbit Short-Sleeve Polo Pajamas",
     "price": 138.0,
-    "description": "Short-sleeve polo pajama set with a playful fall print of monkeys, apples and pumpkins.",
+    "description": "Short-sleeve polo pajama set with contrast piping, in two playful prints.",
     "store": "Roller Rabbit",
     "category": "Fashion",
-    "note": "Size: Small · Color: Orange",
+    "note": "Size: Small",
+    "variantLabel": "Print",
     "url": "https://rollerrabbit.com/products/sweater-weather-polo-pajamas",
     "image": "images/roller-rabbit-sweater-weather.png",
-    "favorite": false
-  },
-  {
-    "name": "Roller Rabbit Monkey Pajamas",
-    "price": 138.0,
-    "description": "Short-sleeve polo pajama set in a lavender and blue monkey print with light blue piping.",
-    "store": "Roller Rabbit",
-    "category": "Fashion",
-    "note": "Size: Small · Color: Lavender",
-    "url": "https://rollerrabbit.com/products/monkey-polo-pajamas-lavender",
-    "image": "images/roller-rabbit-monkey.png",
-    "favorite": false
+    "favorite": false,
+    "variants": [
+      {
+        "label": "Sweater Weather (Orange)",
+        "price": 138.0,
+        "image": "images/roller-rabbit-sweater-weather.png",
+        "url": "https://rollerrabbit.com/products/sweater-weather-polo-pajamas"
+      },
+      {
+        "label": "Monkey (Lavender)",
+        "price": 138.0,
+        "image": "images/roller-rabbit-monkey.png",
+        "url": "https://rollerrabbit.com/products/monkey-polo-pajamas-lavender"
+      }
+    ]
   }
 ]

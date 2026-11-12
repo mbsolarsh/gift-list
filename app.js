@@ -64,7 +64,7 @@ function card(i) {
   const show = (v) => {
     const price = v.price != null ? v.price : i.price;
     priceEl.textContent = price != null ? `$${Number(price).toFixed(2)}` : 'See link for price';
-    noteEl.textContent = v.label ? `${i.variantLabel || 'Size'}: ${v.label}` : (i.note || '');
+    noteEl.textContent = [v.label ? `${i.variantLabel || 'Size'}: ${v.label}` : '', i.note || ''].filter(Boolean).join(' · ');
     noteEl.hidden = !noteEl.textContent;
     if (imgEl && v.image) imgEl.src = v.image;
     const url = v.url || i.url;
