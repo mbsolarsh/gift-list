@@ -20,5 +20,16 @@
     "url": "https://www.amazon.com/dp/B0FHWLHMSN?th=1",
     "image": "images/anker-charger.png",
     "favorite": false
+  },
+  {
+    "name": "Sam Edelman Loraine Shoulder Bag",
+    "price": 145.0,
+    "description": "Glossy red shoulder bag with gold buckle detail and an adjustable strap.",
+    "store": "Amazon",
+    "category": "Fashion",
+    "note": "Color: Red",
+    "url": "https://www.amazon.com/dp/B0FK5VKB6C?th=1",
+    "image": "images/sam-edelman-bag.png",
+    "favorite": false
   }
 ]
