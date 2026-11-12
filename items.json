@@ -347,5 +347,17 @@
     "url": "https://www.crownaffair.com/products/the-towel?variant=41454757773375",
     "image": "images/crown-affair-towel.png",
     "favorite": false
+  },
+  {
+    "name": "Clear Glass Cloche Matches 75ct",
+    "price": 16.99,
+    "description": "Hearth & Hand with Magnolia glass cloche jar holding 75 matches.",
+    "store": "Target",
+    "category": "Home",
+    "subcategory": "Decor",
+    "note": "",
+    "url": "https://www.target.com/p/clear-glass-cloche-matches-75ct-hearth-38-hand-8482-with-magnolia/-/A-93551096",
+    "image": "images/glass-cloche-matches.png",
+    "favorite": false
   }
 ]
