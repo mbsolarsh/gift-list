@@ -311,5 +311,17 @@
     "url": "https://www.sephora.com/product/hourglass-vanish-seamless-finish-concealer-brush-P454744?skuId=2303121",
     "image": "images/hourglass-concealer-brush.png",
     "favorite": false
+  },
+  {
+    "name": "Aritzia HomeStretch Rib Solo Longsleeve",
+    "price": 38.0,
+    "description": "Slim-fit crewneck longsleeve in soft, stretchy ribbed fabric.",
+    "store": "Aritzia",
+    "category": "Fashion",
+    "subcategory": "Clothing",
+    "note": "Size: Small · Color: Byron Blue (Essential Colors)",
+    "url": "https://www.aritzia.com/us/en/product/homestretch™-rib-solo-longsleeve/102669019.html?color=34880",
+    "image": "images/aritzia-homestretch-rib-longsleeve.png",
+    "favorite": false
   }
 ]
