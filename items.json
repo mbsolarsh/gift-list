@@ -250,5 +250,16 @@
     "url": "https://www.salomon.com/en-us/product/xt-6-lg4239/L41252900",
     "image": "images/salomon-xt6.png",
     "favorite": false
+  },
+  {
+    "name": "Pink Bow Mahjong Mat with Bag",
+    "price": 24.99,
+    "description": "Non-slip silicone game table mat with a pink bow design and a carry bag.",
+    "store": "Amazon",
+    "category": "Home",
+    "note": "31.5 x 31.5 in · Color: Pink",
+    "url": "https://www.amazon.com/dp/B0H6NZBNML?th=1",
+    "image": "images/pink-bow-mahjong-mat.png",
+    "favorite": false
   }
 ]
