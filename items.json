@@ -87,5 +87,16 @@
     "url": "https://www.amazon.com/dp/B0DSJ4WK2B?th=1",
     "image": "images/ludaro-socks.png",
     "favorite": false
+  },
+  {
+    "name": "WIHOLL Bell Sleeve Ribbed Top",
+    "price": 12.98,
+    "description": "Fitted long-sleeve boat neck top with ruched sides and flared bell sleeves.",
+    "store": "Amazon",
+    "category": "Fashion",
+    "note": "Size: Small · Color: Black",
+    "url": "https://www.amazon.com/dp/B0GYRK48PP?th=1&psc=1",
+    "image": "images/wiholl-bell-top.png",
+    "favorite": false
   }
 ]
