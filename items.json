@@ -2,9 +2,10 @@
   {
     "name": "Example item (replace me)",
     "price": 25,
+    "description": "A short line on what the item is.",
     "store": "Example Store",
     "category": "Misc",
-    "note": "Placeholder entry. Size/color/notes go here.",
+    "note": "Size/color/notes go here.",
     "url": "https://example.com",
     "image": "",
     "favorite": true
