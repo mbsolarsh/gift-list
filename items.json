@@ -191,5 +191,16 @@
     "url": "https://rollerrabbit.com/products/hearts-long-sleeve-polo-pajamas-blue?variant=41677437141151",
     "image": "images/roller-rabbit-pajamas.png",
     "favorite": false
+  },
+  {
+    "name": "Roller Rabbit Sweater Weather Pajamas",
+    "price": 138.0,
+    "description": "Short-sleeve polo pajama set with a playful fall print of monkeys, apples and pumpkins.",
+    "store": "Roller Rabbit",
+    "category": "Fashion",
+    "note": "Size: Small · Color: Orange",
+    "url": "https://rollerrabbit.com/products/sweater-weather-polo-pajamas",
+    "image": "images/roller-rabbit-sweater-weather.png",
+    "favorite": false
   }
 ]
