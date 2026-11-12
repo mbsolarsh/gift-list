@@ -42,5 +42,16 @@
     "url": "https://www.amazon.com/dp/B099X4YR42?th=1&psc=1",
     "image": "images/kate-kasin-bodysuit.png",
     "favorite": false
+  },
+  {
+    "name": "rhode Pocket Makeup Brush",
+    "price": 27.0,
+    "description": "Compact double-ended brush for easy, on-the-go blending.",
+    "store": "Sephora",
+    "category": "Beauty",
+    "note": "",
+    "url": "https://www.sephora.com/product/pocket-brush-P524988?skuId=2991743",
+    "image": "images/rhode-pocket-brush.png",
+    "favorite": false
   }
 ]
