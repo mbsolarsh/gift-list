@@ -9,5 +9,16 @@
     "url": "https://www.amazon.com/dp/B0FKS6GD59",
     "image": "images/bathroom-organizer.png",
     "favorite": false
+  },
+  {
+    "name": "Anker 3-in-1 Foldable Wireless Charger",
+    "price": 119.99,
+    "description": "Compact fold-up charging station for an iPhone, Apple Watch and AirPods at once.",
+    "store": "Amazon",
+    "category": "Tech",
+    "note": "",
+    "url": "https://www.amazon.com/dp/B0FHWLHMSN?th=1",
+    "image": "images/anker-charger.png",
+    "favorite": false
   }
 ]
