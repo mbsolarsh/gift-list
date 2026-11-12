@@ -31,5 +31,16 @@
     "url": "https://www.amazon.com/dp/B0FK5VKB6C?th=1",
     "image": "images/sam-edelman-bag.png",
     "favorite": false
+  },
+  {
+    "name": "Kate Kasin Bow Tie Blouse Bodysuit",
+    "price": 31.99,
+    "description": "White button-down bodysuit with a bow tie neck and long puff sleeves.",
+    "store": "Amazon",
+    "category": "Fashion",
+    "note": "Size: Small · Color: White",
+    "url": "",
+    "image": "images/kate-kasin-bodysuit.png",
+    "favorite": false
   }
 ]
