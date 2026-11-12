@@ -98,5 +98,16 @@
     "url": "https://www.amazon.com/dp/B0GYRK48PP?th=1&psc=1",
     "image": "images/wiholl-bell-top.png",
     "favorite": false
+  },
+  {
+    "name": "New Balance 530 Sneakers",
+    "price": 109.99,
+    "description": "Retro running-style sneakers in white with natural indigo accents.",
+    "store": "New Balance",
+    "category": "Fashion",
+    "note": "Women's size 7 · White with natural indigo",
+    "url": "https://www.newbalance.com/pd/530/MR530-32265-PMG-NA.html?dwvar_MR530-32265-PMG-NA_style=MR530SG#dwvar_MR530-32265-PMG-NA_size=5.5&dwvar_MR530-32265-PMG-NA_style=MR530SG&dwvar_MR530-32265-PMG-NA_width=D&pid=MR530-32265-PMG-NA&quantity=1",
+    "image": "images/new-balance-530.png",
+    "favorite": false
   }
 ]
