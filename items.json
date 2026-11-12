@@ -202,5 +202,16 @@
     "url": "https://rollerrabbit.com/products/sweater-weather-polo-pajamas",
     "image": "images/roller-rabbit-sweater-weather.png",
     "favorite": false
+  },
+  {
+    "name": "Roller Rabbit Monkey Pajamas",
+    "price": 138.0,
+    "description": "Short-sleeve polo pajama set in a lavender and blue monkey print with light blue piping.",
+    "store": "Roller Rabbit",
+    "category": "Fashion",
+    "note": "Size: Small · Color: Lavender",
+    "url": "https://rollerrabbit.com/products/monkey-polo-pajamas-lavender",
+    "image": "images/roller-rabbit-monkey.png",
+    "favorite": false
   }
 ]
