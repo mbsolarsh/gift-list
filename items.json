@@ -180,5 +180,16 @@
         "url": "https://www.emijay.com/products/big-effing-clip-hair-claw-in-tortoise"
       }
     ]
+  },
+  {
+    "name": "Roller Rabbit Hearts Polo Pajamas",
+    "price": 148.0,
+    "description": "Long-sleeve polo pajama set in a blue heart print with navy piping.",
+    "store": "Roller Rabbit",
+    "category": "Fashion",
+    "note": "Size: Small · Color: Blue",
+    "url": "https://rollerrabbit.com/products/hearts-long-sleeve-polo-pajamas-blue?variant=41677437141151",
+    "image": "images/roller-rabbit-pajamas.png",
+    "favorite": false
   }
 ]
