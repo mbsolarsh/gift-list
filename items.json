@@ -217,5 +217,16 @@
         "url": "https://rollerrabbit.com/products/monkey-polo-pajamas-lavender"
       }
     ]
+  },
+  {
+    "name": "Monogram Waffle Pouch",
+    "price": 78.0,
+    "description": "Zippered waffle-texture pouch with embroidered initials (embroidery included in price).",
+    "store": "",
+    "category": "Beauty",
+    "note": "Color: Blueberry · Initials: MBS, white thread, Rome font",
+    "url": "",
+    "image": "images/monogram-waffle-pouch.png",
+    "favorite": false
   }
 ]
