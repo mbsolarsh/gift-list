@@ -60,9 +60,21 @@
     "description": "Rich moisturizing balm that gives skin a lasting hydration boost.",
     "store": "Sephora",
     "category": "Beauty",
-    "note": "Size: 3.4oz/100ml",
+    "note": "",
     "url": "https://www.sephora.com/product/barrier-butter-P517524?skuId=2896017",
     "image": "images/rhode-barrier-butter.png",
-    "favorite": false
+    "favorite": false,
+    "variants": [
+      {
+        "label": "3.4oz",
+        "price": 36.0,
+        "url": "https://www.sephora.com/product/barrier-butter-P517524?skuId=2896017"
+      },
+      {
+        "label": "1.35oz mini",
+        "price": null,
+        "url": "https://www.sephora.com/product/barrier-butter-P517524?skuId=2895928"
+      }
+    ]
   }
 ]

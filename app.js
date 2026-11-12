@@ -46,17 +46,49 @@ function card(i) {
   c.appendChild(w);
   const b = el('div', 'body');
   b.appendChild(el('h2', '', (i.favorite ? '⭐ ' : '') + i.name));
-  b.appendChild(el('div', 'price', i.price != null ? `$${i.price}` : 'Price varies'));
+  const priceEl = el('div', 'price');
+  b.appendChild(priceEl);
   if (i.description) b.appendChild(el('p', 'desc', i.description));
-  if (i.note) b.appendChild(el('p', 'note', i.note));
+  const noteEl = el('p', 'note');
+  b.appendChild(noteEl);
   const m = el('div', 'meta');
   if (i.category) m.appendChild(el('span', 'tag', i.category));
   if (i.store) m.appendChild(el('span', 'tag store', i.store));
   b.appendChild(m);
-  if (i.url) {
-    const a = el('a', 'btn', 'View item ↗');
-    a.href = i.url; a.target = '_blank'; a.rel = 'noopener noreferrer'; b.appendChild(a);
+
+  const a = el('a', 'btn', 'View item ↗');
+  a.target = '_blank'; a.rel = 'noopener noreferrer';
+
+  const variants = i.variants || [];
+  const show = (v) => {
+    const price = v.price != null ? v.price : i.price;
+    priceEl.textContent = price != null ? `$${Number(price).toFixed(2)}` : 'See link for price';
+    noteEl.textContent = v.label ? `${i.variantLabel || 'Size'}: ${v.label}` : (i.note || '');
+    noteEl.hidden = !noteEl.textContent;
+    const url = v.url || i.url;
+    if (url) a.href = url;
+    a.hidden = !url;
+  };
+
+  if (variants.length) {
+    const row = el('div', 'variants');
+    const btns = variants.map((v) => {
+      const bt = el('button', 'variant', v.label);
+      bt.type = 'button';
+      bt.addEventListener('click', () => {
+        btns.forEach((x) => x.classList.toggle('active', x === bt));
+        show(v);
+      });
+      row.appendChild(bt);
+      return bt;
+    });
+    b.appendChild(row);
+    btns[0].classList.add('active');
+    show(variants[0]);
+  } else {
+    show({ label: '', price: i.price, url: i.url });
   }
+  b.appendChild(a);
   c.appendChild(b);
   return c;
 }
