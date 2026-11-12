@@ -21,9 +21,12 @@ function pills(container, labels, current, onPick) {
 function renderFilters() {
   const cats = [...new Set(items.map((i) => i.category).filter(Boolean))].sort();
   pills($('cats'), cats, cat, (c) => { cat = c; sub = ''; renderFilters(); render(); });
-  const subs = cat
-    ? [...new Set(items.filter((i) => i.category === cat).map((i) => i.subcategory).filter(Boolean))].sort()
-    : [];
+  // Only offer a subcategory button if it has 2+ items, and only show the row if 2+ buttons qualify.
+  const counts = {};
+  items.filter((i) => i.category === cat && i.subcategory)
+       .forEach((i) => { counts[i.subcategory] = (counts[i.subcategory] || 0) + 1; });
+  let subs = Object.keys(counts).filter((s) => counts[s] >= 2).sort();
+  if (subs.length < 2) subs = [];
   $('subs').hidden = subs.length === 0;
   pills($('subs'), subs, sub, (s) => { sub = s; renderFilters(); render(); });
 }
