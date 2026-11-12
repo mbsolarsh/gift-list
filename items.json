@@ -132,5 +132,16 @@
         "url": "https://us.diptyqueparis.com/en-us/products/classic-candle-ambre-amber-ab1"
       }
     ]
+  },
+  {
+    "name": "Venus et Fleur Mini Le Plein",
+    "price": 139.0,
+    "description": "Mini round box with 27 preserved eternity roses that last a year or more.",
+    "store": "Venus et Fleur",
+    "category": "Home",
+    "note": "Box: White Classic · Roses: Pearl",
+    "url": "https://www.venusetfleur.com/products/mini-le-plein-white-classic?variant=41264993402924",
+    "image": "images/venus-et-fleur-roses.png",
+    "favorite": false
   }
 ]
