@@ -239,5 +239,16 @@
     "url": "https://www.papier.com/us/monogram-59105",
     "image": "images/navy-leather-notebook.png",
     "favorite": false
+  },
+  {
+    "name": "Salomon XT-6 Sneakers",
+    "price": 185.0,
+    "description": "All-white trail-inspired sneakers with a quick-lace system.",
+    "store": "Salomon",
+    "category": "Fashion",
+    "note": "Women's size 7 · White / White / Lunar Rock",
+    "url": "https://www.salomon.com/en-us/product/xt-6-lg4239/L41252900",
+    "image": "images/salomon-xt6.png",
+    "favorite": false
   }
 ]
