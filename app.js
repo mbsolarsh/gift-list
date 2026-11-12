@@ -1,7 +1,7 @@
 const $ = (id) => document.getElementById(id);
 let items = [];
 
-fetch('items.json')
+fetch('items.json', { cache: 'no-store' })
   .then((r) => r.json())
   .then((data) => { items = data; initCategories(); render(); })
   .catch(() => { $('count').textContent = 'Could not load items.json'; });
