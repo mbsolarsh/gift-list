@@ -40,8 +40,9 @@ function el(tag, cls, text) {
 function card(i) {
   const c = el('article', 'card');
   const w = el('div', 'imgwrap');
+  let imgEl = null;
   if (i.image) {
-    const img = el('img'); img.src = i.image; img.alt = i.name; img.loading = 'lazy'; w.appendChild(img);
+    imgEl = el('img'); imgEl.src = i.image; imgEl.alt = i.name; imgEl.loading = 'lazy'; w.appendChild(imgEl);
   } else w.appendChild(el('div', 'ph', '🎁'));
   c.appendChild(w);
   const b = el('div', 'body');
@@ -65,6 +66,7 @@ function card(i) {
     priceEl.textContent = price != null ? `$${Number(price).toFixed(2)}` : 'See link for price';
     noteEl.textContent = v.label ? `${i.variantLabel || 'Size'}: ${v.label}` : (i.note || '');
     noteEl.hidden = !noteEl.textContent;
+    if (imgEl && v.image) imgEl.src = v.image;
     const url = v.url || i.url;
     if (url) a.href = url;
     a.hidden = !url;

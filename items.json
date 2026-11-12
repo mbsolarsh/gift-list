@@ -154,5 +154,31 @@
     "url": "https://www.chanel.com/us/makeup/p/137500/miroir-double-facettes-mirror-duo/",
     "image": "images/chanel-mirror-duo.png",
     "favorite": false
+  },
+  {
+    "name": "Emi Jay Big Effing Clip",
+    "price": 36.0,
+    "description": "Oversized hair claw clip in a glossy marbled finish.",
+    "store": "Emi Jay",
+    "category": "Beauty",
+    "note": "",
+    "variantLabel": "Color",
+    "url": "https://www.emijay.com/products/big-effing-clip-hair-claw-in-buttercream",
+    "image": "images/emi-jay-clip-buttercream.png",
+    "favorite": false,
+    "variants": [
+      {
+        "label": "Buttercream",
+        "price": 36.0,
+        "image": "images/emi-jay-clip-buttercream.png",
+        "url": "https://www.emijay.com/products/big-effing-clip-hair-claw-in-buttercream"
+      },
+      {
+        "label": "Tortoise",
+        "price": 36.0,
+        "image": "images/emi-jay-clip-tortoise.png",
+        "url": "https://www.emijay.com/products/big-effing-clip-hair-claw-in-tortoise"
+      }
+    ]
   }
 ]
