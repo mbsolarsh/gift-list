@@ -1,4 +1,4 @@
-# Hanukkah Gift List
+# Gift List
 
 A simple static gift-list site. Edit `items.json` to add gifts; no build step.
 
