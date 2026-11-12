@@ -323,5 +323,17 @@
     "url": "https://www.aritzia.com/us/en/product/homestretch™-rib-solo-longsleeve/102669019.html?color=34880",
     "image": "images/aritzia-homestretch-rib-longsleeve.png",
     "favorite": false
+  },
+  {
+    "name": "Hydrocotton Scalloped Bath Robe",
+    "price": 146.0,
+    "description": "Plush white hydrocotton robe with light blue scalloped trim, shawl collar and pockets.",
+    "store": "Mark & Graham",
+    "category": "Fashion",
+    "subcategory": "Pajamas",
+    "note": "Size: X-Small/Small · Color: Light Blue · Monogram: \"M\" in Medium Light Blue, Didot Regular (Style 549). $129 + $17 personalization",
+    "url": "https://www.markandgraham.com/products/hydrocotton-scalloped-bath-robe/",
+    "image": "images/mark-graham-scalloped-robe.png",
+    "favorite": false
   }
 ]
