@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Gift List</title>
   <meta name="description" content="Gift ideas and wish list.">
-  <link rel="stylesheet" href="style.css?v=6">
+  <link rel="stylesheet" href="style.css?v=7">
 </head>
 <body>
   <header class="hero">
@@ -16,7 +16,6 @@
   <main>
     <section class="controls" aria-label="Filter and sort">
       <input id="search" type="search" placeholder="Search gifts…" aria-label="Search gifts">
-      <select id="category" aria-label="Filter by category"><option value="">All categories</option></select>
       <select id="sort" aria-label="Sort">
         <option value="default">Sort: Favorites first</option>
         <option value="price-asc">Price: low to high</option>
@@ -24,12 +23,15 @@
       </select>
     </section>
 
+    <nav id="cats" class="pills" aria-label="Categories"></nav>
+    <nav id="subs" class="pills subpills" aria-label="Subcategories" hidden></nav>
+
     <p id="count" class="count" aria-live="polite"></p>
     <section id="grid" class="grid"></section>
     <p id="empty" class="empty" hidden>No gifts match your search.</p>
   </main>
 
   <footer>Prices and availability may change</footer>
-  <script src="app.js?v=7"></script>
+  <script src="app.js?v=8"></script>
 </body>
 </html>

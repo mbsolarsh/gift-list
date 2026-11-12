@@ -1,23 +1,39 @@
 const $ = (id) => document.getElementById(id);
 let items = [];
+let cat = '';
+let sub = '';
 
 fetch('items.json', { cache: 'no-store' })
   .then((r) => r.json())
-  .then((data) => { items = data; initCategories(); render(); })
+  .then((data) => { items = data; renderFilters(); render(); })
   .catch(() => { $('count').textContent = 'Could not load items.json'; });
 
-function initCategories() {
-  [...new Set(items.map((i) => i.category).filter(Boolean))].sort().forEach((c) => {
-    const o = document.createElement('option'); o.value = o.textContent = c; $('category').appendChild(o);
+function pills(container, labels, current, onPick) {
+  container.innerHTML = '';
+  ['', ...labels].forEach((label) => {
+    const b = el('button', 'pill' + (label === current ? ' active' : ''), label || 'All');
+    b.type = 'button';
+    b.addEventListener('click', () => onPick(label));
+    container.appendChild(b);
   });
+}
+
+function renderFilters() {
+  const cats = [...new Set(items.map((i) => i.category).filter(Boolean))].sort();
+  pills($('cats'), cats, cat, (c) => { cat = c; sub = ''; renderFilters(); render(); });
+  const subs = cat
+    ? [...new Set(items.filter((i) => i.category === cat).map((i) => i.subcategory).filter(Boolean))].sort()
+    : [];
+  $('subs').hidden = subs.length === 0;
+  pills($('subs'), subs, sub, (s) => { sub = s; renderFilters(); render(); });
 }
 
 function render() {
   const q = $('search').value.toLowerCase().trim();
-  const cat = $('category').value;
   const sort = $('sort').value;
   let list = items.filter((i) =>
     (!cat || i.category === cat) &&
+    (!sub || i.subcategory === sub) &&
     (!q || [i.name, i.description, i.note, i.category, i.store].join(' ').toLowerCase().includes(q)));
 
   if (sort === 'price-asc') list.sort((a, b) => (a.price ?? 1e9) - (b.price ?? 1e9));
@@ -95,4 +111,4 @@ function card(i) {
   return c;
 }
 
-['search', 'category', 'sort'].forEach((id) => $(id).addEventListener('input', render));
+['search', 'sort'].forEach((id) => $(id).addEventListener('input', render));

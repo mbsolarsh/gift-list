@@ -8,7 +8,8 @@
     "note": "",
     "url": "https://www.amazon.com/dp/B0FKS6GD59",
     "image": "images/bathroom-organizer.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Organization"
   },
   {
     "name": "Anker 3-in-1 Foldable Wireless Charger",
@@ -19,7 +20,8 @@
     "note": "",
     "url": "https://www.amazon.com/dp/B0FHWLHMSN?th=1",
     "image": "images/anker-charger.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Chargers"
   },
   {
     "name": "Sam Edelman Loraine Shoulder Bag",
@@ -30,7 +32,8 @@
     "note": "Color: Red",
     "url": "https://www.amazon.com/dp/B0FK5VKB6C?th=1",
     "image": "images/sam-edelman-bag.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Bags"
   },
   {
     "name": "Kate Kasin Bow Tie Blouse Bodysuit",
@@ -41,7 +44,8 @@
     "note": "Size: Small · Color: White",
     "url": "https://www.amazon.com/dp/B099X4YR42?th=1&psc=1",
     "image": "images/kate-kasin-bodysuit.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Tops"
   },
   {
     "name": "rhode Pocket Makeup Brush",
@@ -52,7 +56,8 @@
     "note": "",
     "url": "https://www.sephora.com/product/pocket-brush-P524988?skuId=2991743",
     "image": "images/rhode-pocket-brush.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Makeup"
   },
   {
     "name": "rhode Barrier Butter Moisturizing Balm",
@@ -75,7 +80,8 @@
         "price": 22.0,
         "url": "https://www.sephora.com/product/barrier-butter-P517524?skuId=2895928"
       }
-    ]
+    ],
+    "subcategory": "Skincare"
   },
   {
     "name": "Ludaro Pilates Grip Socks (5 Pairs)",
@@ -86,7 +92,8 @@
     "note": "Color: Beige Brown Grey White",
     "url": "https://www.amazon.com/dp/B0DSJ4WK2B?th=1",
     "image": "images/ludaro-socks.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Socks"
   },
   {
     "name": "WIHOLL Bell Sleeve Ribbed Top",
@@ -97,7 +104,8 @@
     "note": "Size: Small · Color: Black",
     "url": "https://www.amazon.com/dp/B0GYRK48PP?th=1&psc=1",
     "image": "images/wiholl-bell-top.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Tops"
   },
   {
     "name": "New Balance 530 Sneakers",
@@ -108,7 +116,8 @@
     "note": "Women's size 7 · White with natural indigo",
     "url": "https://www.newbalance.com/pd/530/MR530-32265-PMG-NA.html?dwvar_MR530-32265-PMG-NA_style=MR530SG#dwvar_MR530-32265-PMG-NA_size=5.5&dwvar_MR530-32265-PMG-NA_style=MR530SG&dwvar_MR530-32265-PMG-NA_width=D&pid=MR530-32265-PMG-NA&quantity=1",
     "image": "images/new-balance-530.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Shoes"
   },
   {
     "name": "Diptyque Ambre (Amber) Candle",
@@ -131,7 +140,8 @@
         "price": 90.0,
         "url": "https://us.diptyqueparis.com/en-us/products/classic-candle-ambre-amber-ab1"
       }
-    ]
+    ],
+    "subcategory": "Candles"
   },
   {
     "name": "Venus et Fleur Mini Le Plein",
@@ -142,7 +152,8 @@
     "note": "Box: White Classic · Roses: Pearl",
     "url": "https://www.venusetfleur.com/products/mini-le-plein-white-classic?variant=41264993402924",
     "image": "images/venus-et-fleur-roses.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Decor"
   },
   {
     "name": "Chanel Mirror Duo",
@@ -153,7 +164,8 @@
     "note": "",
     "url": "https://www.chanel.com/us/makeup/p/137500/miroir-double-facettes-mirror-duo/",
     "image": "images/chanel-mirror-duo.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Accessories"
   },
   {
     "name": "Emi Jay Big Effing Clip",
@@ -179,7 +191,8 @@
         "image": "images/emi-jay-clip-tortoise.png",
         "url": "https://www.emijay.com/products/big-effing-clip-hair-claw-in-tortoise"
       }
-    ]
+    ],
+    "subcategory": "Hair"
   },
   {
     "name": "Roller Rabbit Hearts Polo Pajamas",
@@ -190,7 +203,8 @@
     "note": "Size: Small · Color: Blue",
     "url": "https://rollerrabbit.com/products/hearts-long-sleeve-polo-pajamas-blue?variant=41677437141151",
     "image": "images/roller-rabbit-pajamas.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Pajamas"
   },
   {
     "name": "Roller Rabbit Short-Sleeve Polo Pajamas",
@@ -216,7 +230,8 @@
         "image": "images/roller-rabbit-monkey.png",
         "url": "https://rollerrabbit.com/products/monkey-polo-pajamas-lavender"
       }
-    ]
+    ],
+    "subcategory": "Pajamas"
   },
   {
     "name": "Monogram Waffle Pouch",
@@ -227,7 +242,8 @@
     "note": "Color: Blueberry · Initials: MBS, white thread, Rome font",
     "url": "https://abbode.com/products/classic-monogram-waffle-pouch?variant=48733961322753",
     "image": "images/monogram-waffle-pouch.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Pouches"
   },
   {
     "name": "Monogram Navy Leather Notebook",
@@ -249,7 +265,8 @@
     "note": "Women's size 7 · White / White / Lunar Rock",
     "url": "https://www.salomon.com/en-us/product/xt-6-lg4239/L41252900",
     "image": "images/salomon-xt6.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Shoes"
   },
   {
     "name": "Pink Bow Mahjong Mat with Bag",
@@ -260,7 +277,8 @@
     "note": "31.5 x 31.5 in · Color: Pink",
     "url": "https://www.amazon.com/dp/B0H6NZBNML?th=1",
     "image": "images/pink-bow-mahjong-mat.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Mats"
   },
   {
     "name": "White Mahjong Racks with Pushers (Set of 4)",
@@ -271,7 +289,8 @@
     "note": "Color: White",
     "url": "https://www.amazon.com/dp/B0GSY68R4K?th=1",
     "image": "images/mahjong-racks.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Racks"
   },
   {
     "name": "Pink Striped Mahjong Tile Bag",
@@ -282,6 +301,7 @@
     "note": "Case only, tiles not included · 10.4 x 5.6 in · Striped pink",
     "url": "https://www.amazon.com/dp/B0GGGMVYVR?th=1",
     "image": "images/mahjong-tile-bag.png",
-    "favorite": false
+    "favorite": false,
+    "subcategory": "Bags"
   }
 ]
