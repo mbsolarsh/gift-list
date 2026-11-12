@@ -228,5 +228,16 @@
     "url": "https://abbode.com/products/classic-monogram-waffle-pouch?variant=48733961322753",
     "image": "images/monogram-waffle-pouch.png",
     "favorite": false
+  },
+  {
+    "name": "Monogram Navy Leather Notebook",
+    "price": 50.0,
+    "description": "Navy leather notebook with a personalized gold monogram.",
+    "store": "",
+    "category": "Stationery",
+    "note": "Color: Navy · Font: Garamond · Initials: M.S",
+    "url": "",
+    "image": "images/navy-leather-notebook.png",
+    "favorite": false
   }
 ]
