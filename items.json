@@ -256,7 +256,7 @@
     "price": 24.99,
     "description": "Non-slip silicone game table mat with a pink bow design and a carry bag.",
     "store": "Amazon",
-    "category": "Home",
+    "category": "Mahjong",
     "note": "31.5 x 31.5 in · Color: Pink",
     "url": "https://www.amazon.com/dp/B0H6NZBNML?th=1",
     "image": "images/pink-bow-mahjong-mat.png",
@@ -267,10 +267,21 @@
     "price": 29.99,
     "description": "Wooden American mahjong racks and pushers with a scalloped edge, plus a carry bag.",
     "store": "Amazon",
-    "category": "Home",
+    "category": "Mahjong",
     "note": "Color: White",
     "url": "https://www.amazon.com/dp/B0GSY68R4K?th=1",
     "image": "images/mahjong-racks.png",
+    "favorite": false
+  },
+  {
+    "name": "Pink Striped Mahjong Tile Bag",
+    "price": 17.99,
+    "description": "Zippered pouch for mahjong tiles with an embroidered \"tiles\" script.",
+    "store": "Amazon",
+    "category": "Mahjong",
+    "note": "Case only, tiles not included · 10.4 x 5.6 in · Striped pink",
+    "url": "https://www.amazon.com/dp/B0GGGMVYVR?th=1",
+    "image": "images/mahjong-tile-bag.png",
     "favorite": false
   }
 ]
