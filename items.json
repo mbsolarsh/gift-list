@@ -95,18 +95,6 @@
     "subcategory": "Clothing"
   },
   {
-    "name": "WIHOLL Bell Sleeve Ribbed Top",
-    "price": 12.98,
-    "description": "Fitted long-sleeve boat neck top with ruched sides and flared bell sleeves.",
-    "store": "Amazon",
-    "category": "Fashion",
-    "note": "Size: Small · Color: Black",
-    "url": "https://www.amazon.com/dp/B0GYRK48PP?th=1&psc=1",
-    "image": "images/wiholl-bell-top.png",
-    "favorite": false,
-    "subcategory": "Clothing"
-  },
-  {
     "name": "New Balance 530 Sneakers",
     "price": 109.99,
     "description": "Retro running-style sneakers in white with natural indigo accents.",
