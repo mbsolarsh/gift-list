@@ -143,5 +143,16 @@
     "url": "https://www.venusetfleur.com/products/mini-le-plein-white-classic?variant=41264993402924",
     "image": "images/venus-et-fleur-roses.png",
     "favorite": false
+  },
+  {
+    "name": "Chanel Mirror Duo",
+    "price": 46.0,
+    "description": "Compact folding double-sided mirror (Miroir Double Facettes).",
+    "store": "Chanel",
+    "category": "Beauty",
+    "note": "",
+    "url": "https://www.chanel.com/us/makeup/p/137500/miroir-double-facettes-mirror-duo/",
+    "image": "images/chanel-mirror-duo.png",
+    "favorite": false
   }
 ]
