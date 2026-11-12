@@ -76,5 +76,16 @@
         "url": "https://www.sephora.com/product/barrier-butter-P517524?skuId=2895928"
       }
     ]
+  },
+  {
+    "name": "Ludaro Pilates Grip Socks (5 Pairs)",
+    "price": 9.47,
+    "description": "Cute ruffle-cuff crew socks with non-slip grips for pilates, yoga and barre.",
+    "store": "Amazon",
+    "category": "Fashion",
+    "note": "Color: Beige Brown Grey White",
+    "url": "https://www.amazon.com/dp/B0DSJ4WK2B?th=1",
+    "image": "images/ludaro-socks.png",
+    "favorite": false
   }
 ]
