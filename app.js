@@ -82,7 +82,7 @@ function card(i) {
       row.appendChild(bt);
       return bt;
     });
-    b.appendChild(row);
+    priceEl.after(row);
     btns[0].classList.add('active');
     show(variants[0]);
   } else {
