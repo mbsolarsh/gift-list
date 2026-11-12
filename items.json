@@ -20,8 +20,7 @@
     "note": "",
     "url": "https://www.amazon.com/dp/B0FHWLHMSN?th=1",
     "image": "images/anker-charger.png",
-    "favorite": false,
-    "subcategory": "Chargers"
+    "favorite": false
   },
   {
     "name": "Sam Edelman Loraine Shoulder Bag",
@@ -45,7 +44,7 @@
     "url": "https://www.amazon.com/dp/B099X4YR42?th=1&psc=1",
     "image": "images/kate-kasin-bodysuit.png",
     "favorite": false,
-    "subcategory": "Tops"
+    "subcategory": "Clothing"
   },
   {
     "name": "rhode Pocket Makeup Brush",
@@ -57,7 +56,7 @@
     "url": "https://www.sephora.com/product/pocket-brush-P524988?skuId=2991743",
     "image": "images/rhode-pocket-brush.png",
     "favorite": false,
-    "subcategory": "Makeup"
+    "subcategory": "Makeup & Hair"
   },
   {
     "name": "rhode Barrier Butter Moisturizing Balm",
@@ -93,7 +92,7 @@
     "url": "https://www.amazon.com/dp/B0DSJ4WK2B?th=1",
     "image": "images/ludaro-socks.png",
     "favorite": false,
-    "subcategory": "Socks"
+    "subcategory": "Clothing"
   },
   {
     "name": "WIHOLL Bell Sleeve Ribbed Top",
@@ -105,7 +104,7 @@
     "url": "https://www.amazon.com/dp/B0GYRK48PP?th=1&psc=1",
     "image": "images/wiholl-bell-top.png",
     "favorite": false,
-    "subcategory": "Tops"
+    "subcategory": "Clothing"
   },
   {
     "name": "New Balance 530 Sneakers",
@@ -141,7 +140,7 @@
         "url": "https://us.diptyqueparis.com/en-us/products/classic-candle-ambre-amber-ab1"
       }
     ],
-    "subcategory": "Candles"
+    "subcategory": "Decor"
   },
   {
     "name": "Venus et Fleur Mini Le Plein",
@@ -165,7 +164,7 @@
     "url": "https://www.chanel.com/us/makeup/p/137500/miroir-double-facettes-mirror-duo/",
     "image": "images/chanel-mirror-duo.png",
     "favorite": false,
-    "subcategory": "Accessories"
+    "subcategory": "Makeup & Hair"
   },
   {
     "name": "Emi Jay Big Effing Clip",
@@ -192,7 +191,7 @@
         "url": "https://www.emijay.com/products/big-effing-clip-hair-claw-in-tortoise"
       }
     ],
-    "subcategory": "Hair"
+    "subcategory": "Makeup & Hair"
   },
   {
     "name": "Roller Rabbit Hearts Polo Pajamas",
@@ -238,12 +237,12 @@
     "price": 78.0,
     "description": "Zippered waffle-texture pouch with embroidered initials (embroidery included in price).",
     "store": "Abbode",
-    "category": "Beauty",
+    "category": "Home",
     "note": "Color: Blueberry · Initials: MBS, white thread, Rome font",
     "url": "https://abbode.com/products/classic-monogram-waffle-pouch?variant=48733961322753",
     "image": "images/monogram-waffle-pouch.png",
     "favorite": false,
-    "subcategory": "Pouches"
+    "subcategory": "Organization"
   },
   {
     "name": "Monogram Navy Leather Notebook",
@@ -277,8 +276,7 @@
     "note": "31.5 x 31.5 in · Color: Pink",
     "url": "https://www.amazon.com/dp/B0H6NZBNML?th=1",
     "image": "images/pink-bow-mahjong-mat.png",
-    "favorite": false,
-    "subcategory": "Mats"
+    "favorite": false
   },
   {
     "name": "White Mahjong Racks with Pushers (Set of 4)",
@@ -289,8 +287,7 @@
     "note": "Color: White",
     "url": "https://www.amazon.com/dp/B0GSY68R4K?th=1",
     "image": "images/mahjong-racks.png",
-    "favorite": false,
-    "subcategory": "Racks"
+    "favorite": false
   },
   {
     "name": "Pink Striped Mahjong Tile Bag",
@@ -301,7 +298,6 @@
     "note": "Case only, tiles not included · 10.4 x 5.6 in · Striped pink",
     "url": "https://www.amazon.com/dp/B0GGGMVYVR?th=1",
     "image": "images/mahjong-tile-bag.png",
-    "favorite": false,
-    "subcategory": "Bags"
+    "favorite": false
   }
 ]
