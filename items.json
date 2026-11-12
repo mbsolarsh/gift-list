@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Example item (replace me)",
+    "price": 25,
+    "store": "Example Store",
+    "category": "Misc",
+    "note": "Placeholder entry. Size/color/notes go here.",
+    "url": "https://example.com",
+    "image": "",
+    "favorite": true
+  }
+]
