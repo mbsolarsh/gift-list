@@ -53,5 +53,16 @@
     "url": "https://www.sephora.com/product/pocket-brush-P524988?skuId=2991743",
     "image": "images/rhode-pocket-brush.png",
     "favorite": false
+  },
+  {
+    "name": "rhode Barrier Butter Moisturizing Balm",
+    "price": 36.0,
+    "description": "Rich moisturizing balm that gives skin a lasting hydration boost.",
+    "store": "Sephora",
+    "category": "Beauty",
+    "note": "Size: 3.4oz/100ml",
+    "url": "https://www.sephora.com/product/barrier-butter-P517524?skuId=2896017",
+    "image": "images/rhode-barrier-butter.png",
+    "favorite": false
   }
 ]
