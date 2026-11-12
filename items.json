@@ -299,5 +299,17 @@
     "url": "https://www.amazon.com/dp/B0GGGMVYVR?th=1",
     "image": "images/mahjong-tile-bag.png",
     "favorite": false
+  },
+  {
+    "name": "Hourglass Vanish Concealer Brush",
+    "price": 42.0,
+    "description": "Seamless finish concealer brush with soft, dense bristles for blending.",
+    "store": "Sephora",
+    "category": "Beauty",
+    "subcategory": "Makeup & Hair",
+    "note": "",
+    "url": "https://www.sephora.com/product/hourglass-vanish-seamless-finish-concealer-brush-P454744?skuId=2303121",
+    "image": "images/hourglass-concealer-brush.png",
+    "favorite": false
   }
 ]
