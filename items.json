@@ -383,5 +383,17 @@
     "url": "https://rollerrabbit.com/products/mini-monkey-blossom-max-robe",
     "image": "images/roller-rabbit-mini-monkey-robe.png",
     "favorite": false
+  },
+  {
+    "name": "Women's Pima Pajama Set in Yuletide Treats",
+    "price": 138.0,
+    "description": "Petite Plume long-sleeve Pima cotton pajama set with gold piping and a festive Yuletide Treats print.",
+    "store": "Petite Plume",
+    "category": "Fashion",
+    "subcategory": "Pajamas",
+    "note": "Size: Small · Print: Yuletide Treats",
+    "url": "https://www.petite-plume.com/products/womens-pima-pajama-set-in-yultide-treats",
+    "image": "images/petite-plume-yuletide-treats-pajamas.png",
+    "favorite": false
   }
 ]
