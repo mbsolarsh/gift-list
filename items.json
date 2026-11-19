@@ -371,5 +371,17 @@
     "url": "https://www.ugg.com/socks-all/teddi-cozy-crew/1133030.html?dwvar_1133030_color=CRM&utm_source=rak_ShopMy&utm_medium=aff&ranMID=43728&ranEAID=8yaPBDQV8ls&ranSiteID=8yaPBDQV8ls-nxKPe5HP7G0jg0UaQ.WCow",
     "image": "images/ugg-teddi-cozy-crew.png",
     "favorite": false
+  },
+  {
+    "name": "Mini Monkey Blossom Max Robe",
+    "price": 148.0,
+    "description": "Plush terry robe in Roller Rabbit's Mini Monkey Blossom print with red piping and a shawl collar.",
+    "store": "Roller Rabbit",
+    "category": "Fashion",
+    "subcategory": "Pajamas",
+    "note": "Size: XS/S · Color: Red",
+    "url": "https://rollerrabbit.com/products/mini-monkey-blossom-max-robe",
+    "image": "images/roller-rabbit-mini-monkey-robe.png",
+    "favorite": false
   }
 ]
