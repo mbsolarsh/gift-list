@@ -359,5 +359,17 @@
     "url": "https://www.ralphlauren.com/women-clothing-sleepwear/cotton-poplin-long-sleeve-pajama-set/0075086009.html",
     "image": "images/ralph-lauren-poplin-pajamas.png",
     "favorite": false
+  },
+  {
+    "name": "UGG Teddi Cozy Crew Socks",
+    "price": 24.0,
+    "description": "Ultra-soft, fuzzy teddy crew socks with a woven UGG label.",
+    "store": "UGG",
+    "category": "Fashion",
+    "subcategory": "Clothing",
+    "note": "Color: Cream",
+    "url": "https://www.ugg.com/socks-all/teddi-cozy-crew/1133030.html?dwvar_1133030_color=CRM&utm_source=rak_ShopMy&utm_medium=aff&ranMID=43728&ranEAID=8yaPBDQV8ls&ranSiteID=8yaPBDQV8ls-nxKPe5HP7G0jg0UaQ.WCow",
+    "image": "images/ugg-teddi-cozy-crew.png",
+    "favorite": false
   }
 ]
