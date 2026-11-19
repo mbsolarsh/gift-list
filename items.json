@@ -347,5 +347,17 @@
     "url": "https://www.target.com/p/clear-glass-cloche-matches-75ct-hearth-38-hand-8482-with-magnolia/-/A-93551096",
     "image": "images/glass-cloche-matches.png",
     "favorite": false
+  },
+  {
+    "name": "Cotton Poplin Long-Sleeve Pajama Set",
+    "price": 178.0,
+    "description": "Polo Ralph Lauren striped cotton poplin pajama set with embroidered pony pocket.",
+    "store": "Ralph Lauren",
+    "category": "Fashion",
+    "subcategory": "Pajamas",
+    "note": "Size: Small · Color: Light Blue/White · Monogramming available",
+    "url": "https://www.ralphlauren.com/women-clothing-sleepwear/cotton-poplin-long-sleeve-pajama-set/0075086009.html",
+    "image": "images/ralph-lauren-poplin-pajamas.png",
+    "favorite": false
   }
 ]
